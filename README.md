@@ -1,5 +1,10 @@
-JavaScript Testing
-Rooster Regulation
+[link to lesson](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-javascript-testing/modules/wdcp-22-write-good-tests-with-mocha-764e85ca-0abf-4da9-91a2-43f8d593eab8/projects/rooster-regulation
+)
+
+### JavaScript Testing
+
+**Rooster Regulation**
+
 An experimental rooster object has been developed without any tests! It’s up to you to write them.
 
 By the end of this project you will have a fast, complete, reliable, isolated, maintainable, and expressive test suite: it will provide confidence that the rooster is functioning correctly and it will act as a form of documentation for other developers.
