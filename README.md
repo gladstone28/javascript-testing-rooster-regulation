@@ -13,4 +13,8 @@ You can find the rooster defined in index.js. You will write a test suite in ind
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
+[walk through video](https://www.youtube.com/watch?v=GYLz0QJe9VI)
 
+Good Tests with Mocha Project: Rooster Regulation
+
+https://www.youtube.com/watch?v=GYLz0QJe9VI
